@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "UAV Development and the Future of War"
-date: 2024-05-11
+date: 2024-05-1112:22:22 +1000
 categories: essay
 ---
 # UAV Development and the Future of War
