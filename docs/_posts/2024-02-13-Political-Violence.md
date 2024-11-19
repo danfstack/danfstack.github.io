@@ -4,14 +4,14 @@ title:  "Political Violence and the Dynamics of Escalation"
 date:   2024-02-13 12:22:22 +1000
 categories: essay
 ---
-# Political Violence and the Dynamics of Escalation
-## Lessons from Say Nothing and a Savage War of Peace
+## Political Violence and the Dynamics of Escalation
+# Lessons from Say Nothing and a Savage War of Peace
 
 My father used to talk about boys from his village in the calm south of Ireland, missing a game of Gaelic to head north for the weekend, and coming back the next weekend with stories hidden behind closed mouths and grim eyes. Everything is left unsaid in these parts of the world, but the assumption was they had gone to do missions for the Irish Republican Army. I was always interested in and implicitly supported the actions of groups like the IRA, fighting for a noble cause with less noble means. However, recently the use of violence by insurgents against an occupying force have been more harshly illuminated by the October 7 massacre by Hamas in Israel. This event, and reading books like *Say Nothing* by Patrick Radden O'Keefe, and *A Savage War of Peace* by Alistair Horne - on a similiar insurgency in Algeria against the French - beg questions about the fascinating and dark reality of guerilla warfare. How do rebel groups like the IRA and the National Liberation Front (FLN) in Algeria envision the use of violence in pursuing their goals? How does conflict begin and escalate? And how does such internecine violence ever reach a conclusion? This essay seeks to develop some answers to these questions.
 
 The story begins in Ireland as well as Algeria where there is latent political consciousness due to a history of mistreatment by a great power. This is catalysed by a show of resistance, brought about in the Irish case by ~1200 in rebel forces at the Easter Rising in 1916, and the Algerian a similar magnitude of civilian protesters in the V.E. day protests in Setif in 1945, who are put down brutally and clumsily by the state and in the Algerian case pied noir settler vigilantes as well. The frenzied reaction of the state, followed by a long period of intensified occupation, is its own demise. Insurgency breeds escalatory dynamics and eventually an environment of anarchy - as Yeats had it *"... days are dragon-ridden, the nightmare / rides upon sleep"* [*Nineteen Hundred and Nineteen*, W.B. Yeats]. Finally, compromise on the part of the state seems the only way to end agony, and a peace process is long and complex while casualties rise on both sides. I will go over each of these stages in further detail and try to answer the question of why events have a shade of inevitability to them without strong and progressive policy at the outset.
 
-## Ignition
+# Ignition
 
 The Easter Rising was launched by Irish republicans against British rule in Ireland during Easter Week in 1916, with the aim of establishing an independent Irish Republic while the United Kingdom was fighting the First World War. Irish leaders had been demanding home rule for a long time; indeed, such a bill was languishing in the Statute Book in London, deferred until the end of the war. The Rising in hindsight should have been punished with prison time for the ringleaders, however instead fifteen were court-martialed and shot in the first two weeks of May, effectively martyring them in the eyes of the public. J.C. Beckett in his "The Making of Modern Ireland 1603-1923" identified that now "Ireland was quickly passing under the most dangerous of all tyrannies - the tyranny of the dead". By killing the ringleaders, the British government had choked the legitimate Irish republican party out of existence, enraged the public, and cleared the way for the more radical Sinn Fein. We can see a similar dynamic in the beginning of Algerian nationalism after the Setif revolt and the extremely violent reaction from France and its pied noir settlers.
 
@@ -21,7 +21,7 @@ On the morning of 8 May 1945, the inhabitants of the largely Muslim town of Seti
 
 Although war wouldn't begin for another nine years, this event and the French state's reaction to it laid the seeds for revolution, and began the process by which hundreds of thousands would die or be expelled from their homes, and the Fourth French Republic would fall.
 
-## Immoderation
+# Immoderation
 
 These events not only harshly brought to light the savagery with which an occupying nation would put down rebel groups, but also removed the more moderate and compromising force that a state could have dealt with in the future. In both cases resistance is driven underground, to groups that would see violence as their only resort by which to bring about the change they desired. In Ireland's case, later riots against conscription in WW1 lead to the arrest in 1918 of more moderate leaders De Valera and Griffith and handed the future of the movement to the more radical Michael Collins. In Algeria, the French policy of breaking up the great traditional families in times of relative peace would lead to later, much more difficult times in which they found they had no acceptable representatives to deal with. Instead;
 
@@ -29,7 +29,7 @@ These events not only harshly brought to light the savagery with which an occupy
 
 This is a key factor in the difficulty of the state in political dealings and negotiation when violence escalated.
 
-## Proliferation
+# Proliferation
 
 Events lead to an increase in the intensity and magnitude of occupying forces in an attempt to quell further rebellion. It is a predictable outcome, one that occurred previously with the British in Palestine and Cyprus, the Portuguese in Mozambique, and the French in Indo-China. It is the playbook of a nation caught unawares by rebel action:
 
@@ -41,7 +41,7 @@ For rebel groups this dynamic is one that must be understood and taken advantage
 
 The basic strategy wouldn't fully succeed in either Brazil, Ireland or Algeria, but was certainly the main idea behind the militant forces there, and would devolve into blind terrorism from all quarters and conclude with a war-weary population stuck in a torpor of horror.
 
-## The Paradox of Terror
+# The Paradox of Terror
 
 How did the home front feel about the growing intensity of conflict in their colonial possessions? It is best characterised by the concept of the paradox of terror; during the Troubles, English opinion was variously unconcerned by what was happening *"over there"* or appalled by use of terrorist tactics by the IRA in its bombing campaign. The paradox lies in the violent actions of heavily armed British soldiers on Irish land during the occupation, and heavily armored Land Rovers patrolling the streets, and is conveniently ignored by English public opinion. In only identifying the reaction against these forces as terrorism, they miss the fundamental reason that Irish republicanism would continue to thrive. For the Catholic public it was an easy answer to the question of who had brought terror to this particular environment - the British. Violence was first brought to Belfast by Protestants, in particular the Ulster Volunteer Force who disrupted Catholic marches, and then reinforced by British troops brought in to quell the disturbance. As a former IRA member Albert Price said:
 
@@ -51,7 +51,7 @@ This dynamic has been occurring since the time of the Romans, who's legionnaires
 
 > Occasionally these slaves rose to attack the Romans, who, seeing a sentry assassinated or a detachment ambushed and annihilated, no doubt spoke feelingly about the use of terrorist tactics. What options did the natives hold either to rid themselves of the Roman presence or to convert it to a more salutary form? Only one: force. What kind of force? That which was limited to what their minds could evoke. Lacking arms, training, and organization, they had to rely on wits, on surprise raids, ambushes, massacres. Was this terror or was it counterterror? [*War in the Shadows: The Guerilla in History*, Robert Asprey]
 
-## Escalation
+# Escalation
 
 No matter the feelings of the home front in these conflicts, beginning to fight an insurgency creates its own escalatory dynamics. At the beginning of the 1970's in Belfast there may have begun a policy of deescalation and attrition but it fell victim to overwhelming circumstances. British army tactics, higher command intransigence, RUC and "B" Special operations, and right-wing guerrilla terrorist acts already had turned a majority of Catholics against the government and its security forces to make them either sympathisers with, supporters of, or participants in IRA operations. As matters stood, violence could only escalate.
 
@@ -83,7 +83,7 @@ In another:
 > 
 > "I'd steal my mother's sugar to make a bomb…."
 
-## Deescalation
+# Deescalation
 
 How do you repair a society which has devolved to such violent attitudes? It is, perhaps obviously, very difficult. The difficulty is increased by the political intransigence of your enemy, who can resolve to wait out the conflict without any compromise on their initial goals. This is in stark contrast to a democratic nation, whose leaders necessarily change, and whose populace rarely have the will to continue fighting a horrific war in which violence has reached such levels.
 
@@ -91,7 +91,7 @@ In 1959, de Gaulle grandly offered the Algerians a *paix des braves*. The princi
 
 In Ireland, the road to the signing of the Good Friday Agreement (which brought a fragile peace), was arduous and involved numerous peace talks and negotiation throughout the 70s, 80s and 90s. Both the negotiations in Algeria and Ireland illustrate the failure of moderates to prevail against the extremist minority on either side. Every time political settlement was sought, the same problem arose. No sooner had a peaceful-sounding overture been made than pressure from the protagonists of "no compromise" would force the leader who made them to renege with harsh and intransigent noises towards the other side, which in turn would engender more reservations. This acts in combination with the continual breaking of ceasefires by the most militant groups on the rebel side, who seek to drag parties away from the negotiating table so that their aim of absolutely no compromise can be met. In the case of the state, they cannot be seen by their citizens to be dealing with a violent and terroristic counterparty, and are under huge pressure to break negotiations themselves and impose more force. Eventually settlement is reached, but this is after long negotiation where casualties in the conflict continue to mount, civilian populations become increasingly weary of violence, and great compromises are made on the part of the state. 
 
-## Lessons Not Learned
+# Lessons Not Learned
 
 The political difficulty goes along with the tactical difficulty of fighting an insurgency where you necessarily cannot be everywhere at once and your troops become easy targets. The terrorist has the strategic asymmetry eloquently named by the IRA after they tried to kill Thatcher in the Brighton bombing (well covered in Rory Carroll’s book Killing Thatcher) *“Today we were unlucky, but remember, we only have to be lucky once. You will have to be lucky always”*. In the long run you lose the moral battle as well as the tactical battle, as if the occupation continues long enough, your own troops will be implicated in the escalating violence, and resort to the same methods used by the terrorist: indiscriminate bombing and murder, imprisonment, and seeking information through torture. 
 
