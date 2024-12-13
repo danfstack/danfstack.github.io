@@ -5,7 +5,7 @@ date: 2024-05-11 12:22:22 +1000
 categories: essay
 ---
 # Terminator meets Verdun
-![Ukrainian drone operator](/assets/images/ukraine.jpeg)
+![Ukrainian drone operator](danfstack.github.io/assets/images/ukraine.jpeg)
 
 This year, the number of UAVs deployed in Ukraine will exceed the number of soldiers and vehicles on the battlefield. This marks a significant milestone in the history of warfare, combining advanced technology reminiscent of the Terminator with the attrition warfare seen in Verdun 1916. Even with today's limited UAV autonomy, an automated killing field is emerging. In the first two months of 2024, the Ukrainian defense industry produced about 200 thousand FPV drones, and the Deputy Minister for Strategic Industries of Ukraine has stated that the Ukrainian production capacity will reach 2 million by the end of 2024 (1). As the war grinds on and shells and Western assistance dries up, Ukraine is fighting with the systems they have, and Russia has in turn grasped their utility and now mass-produces them in a vicious arms race spurred by Ukrainian ingenuity. Already the battlefield is more transparent than any other in history, with soldiers and vehicles in the open easily targeted. In the words of Ukrainian drone expert Serhii Flesh:
 
