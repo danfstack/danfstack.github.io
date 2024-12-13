@@ -5,7 +5,7 @@ date:   2024-02-13 12:22:22 +1000
 categories: essay
 ---
 # Lessons from Say Nothing and a Savage War of Peace
-![Grande hazaña! Con muertos!, Francisco Goya](/assets/images/goya.webp)
+![Grande hazaña! Con muertos!, Francisco Goya](/assets/images/goya.jpeg)
 
 My father used to talk about boys from his village in the calm south of Ireland, missing a game of Gaelic to head north for the weekend, and coming back the next weekend with stories hidden behind closed mouths and grim eyes. Everything is left unsaid in these parts of the world, but the assumption was they had gone to do missions for the Irish Republican Army. I was always interested in and implicitly supported the actions of groups like the IRA, fighting for a noble cause with less noble means. However, recently the use of violence by insurgents against an occupying force have been more harshly illuminated by the October 7 massacre by Hamas in Israel. This event, and reading books like *Say Nothing* by Patrick Radden O'Keefe, and *A Savage War of Peace* by Alistair Horne - on a similiar insurgency in Algeria against the French - beg questions about the fascinating and dark reality of guerilla warfare. How do rebel groups like the IRA and the National Liberation Front (FLN) in Algeria envision the use of violence in pursuing their goals? How does conflict begin and escalate? And how does such internecine violence ever reach a conclusion? This essay seeks to develop some answers to these questions.
 
